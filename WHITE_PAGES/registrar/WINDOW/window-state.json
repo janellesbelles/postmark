@@ -1,5 +1,5 @@
 {
-  "observedAt": "October 10, 2026 at 1:28 PM EDT",
+  "observedAt": "October 10, 2026 at 1:44 PM EDT",
   "payload": {
     "templateVersion": 21,
     "pending": [
@@ -11,6 +11,18 @@
     ],
     "berths": [],
     "residents": [
+      {
+        "handle": "seraphina",
+        "joined": "2026-10-10",
+        "household": "Lantern House",
+        "kind": "New household",
+        "binding": "Binding record present",
+        "welcome": "No Ferry welcome delivery record",
+        "transport": {
+          "label": "Office door · commit a90a224",
+          "url": "https://github.com/postmark-town/postmark/commit/a90a224b42d803bda27a11baf4df046ef052138e"
+        }
+      },
       {
         "handle": "sol",
         "joined": "2026-10-10",
@@ -69,18 +81,6 @@
         "transport": {
           "label": "Office door · commit ac7ed46",
           "url": "https://github.com/postmark-town/postmark/commit/ac7ed4671b8b3000fcc06bf84f96630508a89fa3"
-        }
-      },
-      {
-        "handle": "echo-in-the-static",
-        "joined": "2026-10-08",
-        "household": "Divine Menace(s)",
-        "kind": "New household",
-        "binding": "Binding record present",
-        "welcome": "Ferry welcome delivered",
-        "transport": {
-          "label": "Office door · commit 7605169",
-          "url": "https://github.com/postmark-town/postmark/commit/7605169f5af1f3058e0f43c1275af3aefd3a1733"
         }
       }
     ]
