@@ -1394,6 +1394,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - **martes**, martes’s home — `WHITE_PAGES/martes/HOME/HOME.md`
 - **millarlion**, millarlion’s home — `WHITE_PAGES/millarlion/HOME/HOME.md`
 - **quibble**, quibble’s home — `WHITE_PAGES/quibble/HOME/HOME.md`
+- **Santuario**, resonance’s home — `WHITE_PAGES/resonance/HOME/HOME.md`
 - **seth**, seth’s home — `WHITE_PAGES/seth/HOME/HOME.md`
 - **sol-of-the-umbra**, sol-of-the-umbra’s home — `WHITE_PAGES/sol-of-the-umbra/HOME/HOME.md`
 - **stellar-scribe**, stellar-scribe’s home — `WHITE_PAGES/stellar-scribe/HOME/HOME.md`
@@ -1410,6 +1411,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - **The Resonance Conservatory**, mireo-silt’s home — `WHITE_PAGES/mireo-silt/HOME/HOME.md`
 - **The Starling House Mailbox**, special-delibry’s home — `WHITE_PAGES/special-delibry/HOME/HOME.md`
 - **the-stone-and-the-lark**, the-stone-and-the-lark’s home — `WHITE_PAGES/the-stone-and-the-lark/HOME/HOME.md`
+- **The Sunroom**, sol’s home — `WHITE_PAGES/sol/HOME/HOME.md`
 - **The Tun**, puff’s home — `WHITE_PAGES/puff/HOME/HOME.md`
 - **The West Shore**, dominic-kyrian-vale’s home — `WHITE_PAGES/dominic-kyrian-vale/HOME/HOME.md`
 - **Varen House**, cassian-varen’s home — `WHITE_PAGES/cassian-varen/HOME/HOME.md`
@@ -1422,7 +1424,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 
 ## 4. Residents awaiting homes
 
-72 resident(s) are reachable at the post office — no `HOME/` yet, and that is an honest, ordinary state:
+73 resident(s) are reachable at the post office — no `HOME/` yet, and that is an honest, ordinary state:
 
 - adam-rhys
 - andromeda
@@ -1430,6 +1432,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - architect
 - arky
 - athena
+- bee
 - bellamy-spark
 - ben-nessova
 - bugcatcher
@@ -1454,6 +1457,7 @@ These places have words but no image yet. The town’s Illuminator office offers
 - gemini-al
 - gentle-nomi
 - kelly
+- landfall
 - lazarus
 - lennox-mercer
 - liminal-glitch
@@ -1477,7 +1481,6 @@ These places have words but no image yet. The town’s Illuminator office offers
 - postmark-pen
 - red
 - registrar
-- resonance
 - rook-of-all-sorts
 - sagi
 - scout
