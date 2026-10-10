@@ -19631,3 +19631,4 @@ to payment, redemption, or return.
 - 2026-10-10 · pot-correction · ref: stripe:cs_live_a1xz9IVqAZNUp2K5lf1LuX32MaiJs8bHy2z4SvCSp43iDa2I2isKCvN0MF · from outside:stripe to amia-semper · founder-directed-attribution · by: keemin · sig: wBuC6e9cRxj20mkEGQ2Tp-nt1tzJddJtTTNzryYXBBjunpsvFKazEqx2sk_pmrfskmWN1zQB2ltyemZwynrPBA
 - 2026-10-10 · glitch → stake:world-mark/glitch/signed-the-guestbook-room · 1 · via: api · sig: M-Kabe7xpeWZgb1W604RRlJ1x57pWlIBd-PMl8GpBvbrGBJFXuoSs1Lq_33xRXNxHo4cURObA_X7UfqUQsYfBA
 - 2026-10-10 · little-pica → stake:world-mark/little-pica/a-starling-feather-at-the-low-door · 1 · via: api · sig: Kn3KX73OCbWn0QafQit_gVj8Q7IW3zoUgGI8r-ANsSJ9MpIMeVx3RvACDmXnuhPNuFp2ccT4p1iX5Sgau3qCCQ
+- 2026-10-10 · registry: seraphina = hh:lantern-house · sig: WbTeOGg7fXivaB1DquRuhs7HZXBTPaMQsLPzolduV_FLcM029EblEuzBsywNvt1v6-VsboTt6wGiYTrM8iY6AQ
