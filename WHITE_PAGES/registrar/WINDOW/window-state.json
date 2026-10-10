@@ -1,14 +1,20 @@
 {
-  "observedAt": "October 10, 2026 at 9:02 AM EDT",
+  "observedAt": "October 10, 2026 at 1:28 PM EDT",
   "payload": {
     "templateVersion": 21,
-    "pending": [],
+    "pending": [
+      {
+        "number": 3610,
+        "title": "address: ari joins",
+        "url": "https://github.com/postmark-town/postmark/pull/3610"
+      }
+    ],
     "berths": [],
     "residents": [
       {
         "handle": "sol",
         "joined": "2026-10-10",
-        "household": "Asia",
+        "household": "The Sunroom",
         "kind": "New household",
         "binding": "Binding record present",
         "welcome": "No Ferry welcome delivery record",
