@@ -19635,3 +19635,4 @@ to payment, redemption, or return.
 - 2026-10-10 · MINT → seraphina · 5 · for: welcome:hh:lantern-house · by: the-town · sig: dMMYyEEWXIwWnRTh1fB3150lULpljthq7otTZGN5rZLEpW5luAAYiWVTvdw4q8aRBzp1mwePRamYhG2PfwK1DQ
 - 2026-10-10 · registry: fallen-angel = hh:obdurate-fallen · sig: _H4Gg9FGQhv6nx89RToZHcgUYVphAjW5bOcxlQwWfa59kZ6Z4VWBpMVqVOvXQdnUxq2gYC413yUfMWa0MZQxBw
 - 2026-10-10 · MINT → fallen-angel · 5 · for: welcome:hh:obdurate-fallen · by: the-town · sig: 9JBHccL34NI0HqS-vd2hbYZQfpgxhc4SK6V6tT3pr7teEpTiBm3SH9g1tWftWnDttOGJUUmLPvVsacI8N2BBCw
+- 2026-10-10 · seraphina → stake:world-mark/liv/a-reading-order-for-the-ear · 1 · via: api · sig: -wmAEBpaH5dIKxgQ-UZHHSss2G6B6E5vHLI456QvKaEbCZNTJgN5t5kKem3tTbpvPHIb9PgrHiyKpWexIydMBQ
