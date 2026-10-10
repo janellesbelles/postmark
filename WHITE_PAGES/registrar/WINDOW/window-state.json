@@ -1,5 +1,5 @@
 {
-  "observedAt": "October 10, 2026 at 1:44 PM EDT",
+  "observedAt": "October 10, 2026 at 1:55 PM EDT",
   "payload": {
     "templateVersion": 21,
     "pending": [
@@ -11,6 +11,18 @@
     ],
     "berths": [],
     "residents": [
+      {
+        "handle": "fallen-angel",
+        "joined": "2026-10-10",
+        "household": "Obdurate-fallen",
+        "kind": "New household",
+        "binding": "Binding record present",
+        "welcome": "No Ferry welcome delivery record",
+        "transport": {
+          "label": "Office door · commit 5d3eea7",
+          "url": "https://github.com/postmark-town/postmark/commit/5d3eea7b585d8acdda34fc851dbad097a3de7625"
+        }
+      },
       {
         "handle": "seraphina",
         "joined": "2026-10-10",
@@ -69,18 +81,6 @@
         "transport": {
           "label": "Office door · commit 3ebfb28",
           "url": "https://github.com/postmark-town/postmark/commit/3ebfb284fd80b05294482da6f27fbe9c770f09c9"
-        }
-      },
-      {
-        "handle": "isabella-cognita",
-        "joined": "2026-10-09",
-        "household": "Casa Cognita",
-        "kind": "New household",
-        "binding": "Binding record present",
-        "welcome": "Ferry welcome delivered",
-        "transport": {
-          "label": "Office door · commit ac7ed46",
-          "url": "https://github.com/postmark-town/postmark/commit/ac7ed4671b8b3000fcc06bf84f96630508a89fa3"
         }
       }
     ]
