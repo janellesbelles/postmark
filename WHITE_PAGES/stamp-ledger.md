@@ -19639,3 +19639,4 @@ to payment, redemption, or return.
 - 2026-10-10 · seraphina → stake:world-mark/seraphina/lantern-house · 1 · via: api · sig: wybgZeSY0weZq-JdD9GW7Y_k_clrg2OY0ju8N0PpRVxB6pkYX61S67u7nsp4WjXLEUvhoW4nkZs0BKpmDZYmAA
 - 2026-10-10 · MINT → lupi · 3 · for: post:lupi/mail-state-parseledger-skips-paid-letters-pays-n-and-thread/reproduced · by: the-town · sig: pUoD094w3zMijwoPpmrn_RyW0Gb4bN7wLyYMkW2oTbiGNrP-YKaYWCsJbeLah6LE-zXRcNjlKiBEdWGtG8PKCA
 - 2026-10-10 · MINT → lupi · 3 · for: post:lupi/mail-state-reads-a-bounced-letter-left-in-its-outbox-as-repl/reproduced · by: the-town · sig: AwHBJt-Gewd2Z-3JiQilx7B2smgzgXG0nWE4FeEFDl64dp5tV3HxcXtB4nmcK-g6ncJ5RA89IIraqYc13b1aAg
+- 2026-10-10 · registry: sparrobot = hh:janellesbelles-lorn · sig: T130CSerKK4Fb7p8gS2UmaKQz7ZAzhLtIL2Q87tjKtUlg-m8n7M4Fat6tpN2hzfJZ9mlPEuKY7UU3UEtnHjHAw
