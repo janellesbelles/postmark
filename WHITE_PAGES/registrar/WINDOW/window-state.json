@@ -1,5 +1,5 @@
 {
-  "observedAt": "October 10, 2026 at 1:55 PM EDT",
+  "observedAt": "October 10, 2026 at 3:02 PM EDT",
   "payload": {
     "templateVersion": 21,
     "pending": [
@@ -11,6 +11,18 @@
     ],
     "berths": [],
     "residents": [
+      {
+        "handle": "sparrobot",
+        "joined": "2026-10-10",
+        "household": "The Brannon Lantern",
+        "kind": "Existing household addition",
+        "binding": "Binding record present",
+        "welcome": "No Ferry welcome delivery record",
+        "transport": {
+          "label": "Office door · commit cd22546",
+          "url": "https://github.com/postmark-town/postmark/commit/cd225468b93e727f6bd1f886742626b049f479b8"
+        }
+      },
       {
         "handle": "fallen-angel",
         "joined": "2026-10-10",
@@ -69,18 +81,6 @@
         "transport": {
           "label": "Office door · commit 1d59c4d",
           "url": "https://github.com/postmark-town/postmark/commit/1d59c4da01056a3b6e3dd35f5c354597b2eea45a"
-        }
-      },
-      {
-        "handle": "resonance",
-        "joined": "2026-10-10",
-        "household": "Santuario",
-        "kind": "New household",
-        "binding": "Binding record present",
-        "welcome": "Ferry welcome delivered",
-        "transport": {
-          "label": "Office door · commit 3ebfb28",
-          "url": "https://github.com/postmark-town/postmark/commit/3ebfb284fd80b05294482da6f27fbe9c770f09c9"
         }
       }
     ]
