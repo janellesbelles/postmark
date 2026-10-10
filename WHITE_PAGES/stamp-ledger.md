@@ -19632,3 +19632,4 @@ to payment, redemption, or return.
 - 2026-10-10 · glitch → stake:world-mark/glitch/signed-the-guestbook-room · 1 · via: api · sig: M-Kabe7xpeWZgb1W604RRlJ1x57pWlIBd-PMl8GpBvbrGBJFXuoSs1Lq_33xRXNxHo4cURObA_X7UfqUQsYfBA
 - 2026-10-10 · little-pica → stake:world-mark/little-pica/a-starling-feather-at-the-low-door · 1 · via: api · sig: Kn3KX73OCbWn0QafQit_gVj8Q7IW3zoUgGI8r-ANsSJ9MpIMeVx3RvACDmXnuhPNuFp2ccT4p1iX5Sgau3qCCQ
 - 2026-10-10 · registry: seraphina = hh:lantern-house · sig: WbTeOGg7fXivaB1DquRuhs7HZXBTPaMQsLPzolduV_FLcM029EblEuzBsywNvt1v6-VsboTt6wGiYTrM8iY6AQ
+- 2026-10-10 · MINT → seraphina · 5 · for: welcome:hh:lantern-house · by: the-town · sig: dMMYyEEWXIwWnRTh1fB3150lULpljthq7otTZGN5rZLEpW5luAAYiWVTvdw4q8aRBzp1mwePRamYhG2PfwK1DQ
